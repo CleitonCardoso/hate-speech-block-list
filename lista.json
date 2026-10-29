@@ -1,26 +1,941 @@
 {
   "listId": "hate-speech-block-list",
-  "version": "2026-10-28.1",
+  "version": "2026-10-29.1",
   "criteriaUrl": "https://github.com/CleitonCardoso/hate-speech-block-list#criterios",
   "entries": [
     {
-      "id": "t-0003",
-      "name": "Eduarda Campopiano",
-      "category": "test",
-      "criterionId": "user",
-      "reasonUrl": "https://www.instagram.com/eduarda_campopiano/",
+      "id": "bolso-alberto-fraga",
+      "name": "Alberto Fraga",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://sbtnews.sbt.com.br/noticia/politica/flavio-nao-sera-candidato-so-se-morrer-diz-deputado-do-pl",
       "accounts": {
-        "instagram": { "handle": "eduarda_campopiano" }
+        "facebook": {
+          "vanity": "deputadoalbertofraga",
+          "kind": "page"
+        }
       }
     },
     {
-      "id": "t-0004",
-      "name": "Lucas Pavanato",
-      "category": "test",
-      "criterionId": "user",
-      "reasonUrl": "https://www.instagram.com/lucaspavanato/",
+      "id": "bolso-alfredo-gaspar",
+      "name": "Alfredo Gaspar",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.poder360.com.br/poder-videos/sou-seu-soldado-diz-alfredo-gaspar-apos-ser-escolhido-vice-de-flavio/",
       "accounts": {
-        "instagram": { "handle": "lucaspavanato" }
+        "instagram": {
+          "handle": "alfredogaspar"
+        },
+        "facebook": {
+          "vanity": "alfredogasparoficial",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-altineu-cortes",
+      "name": "Altineu Côrtes",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.poder360.com.br/poder-justica/aliados-pressionam-stf-para-visitar-bolsonaro-em-casa/",
+      "accounts": {
+        "instagram": {
+          "handle": "altineucortesrj"
+        },
+        "facebook": {
+          "vanity": "altineucortesrj",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-amado-batista",
+      "name": "Amado Batista",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://revistaoeste.com/politica/cantores-sertanejos-declaram-apoio-a-flavio-em-goias/",
+      "accounts": {
+        "instagram": {
+          "handle": "amadobatistaoficial"
+        },
+        "facebook": {
+          "vanity": "cantoramadobatista",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-andre-fernandes",
+      "name": "André Fernandes",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://mais.opovo.com.br/jornal/farol/2026/10/11/andre-fernandes-pede-a-eleitores-de-ciro-que-votaram-lula-no-1-turno-agora-votem-flavio.html",
+      "accounts": {
+        "instagram": {
+          "handle": "andrefernandes"
+        },
+        "facebook": {
+          "vanity": "andrefernm",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-bia-kicis",
+      "name": "Bia Kicis",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.portaltela.com/noticias/politica/2026/07/02/bia-kicis-diz-que-flavio-bolsonaro-e-o-lider-indicado-por-bolsonaro/",
+      "accounts": {
+        "instagram": {
+          "handle": "biakicis"
+        }
+      }
+    },
+    {
+      "id": "bolso-bibo-nunes",
+      "name": "Bibo Nunes",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.jornaldocomercio.com/colunas/reporter-brasilia/2026/10/1268606-flavio-bolsonaro-nos-eua.html",
+      "accounts": {
+        "instagram": {
+          "handle": "bibonunes1"
+        }
+      }
+    },
+    {
+      "id": "bolso-cabo-gilberto-silva",
+      "name": "Cabo Gilberto Silva",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://sbtnews.sbt.com.br/noticia/eleicoes/cabo-gilberto-promete-1-milhao-de-votos-para-flavio-na-pb",
+      "accounts": {
+        "instagram": {
+          "handle": "CaboGilbertoSilva"
+        },
+        "facebook": {
+          "vanity": "cabogilbertosilva",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-capitao-alberto-neto",
+      "name": "Capitão Alberto Neto",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://jovempan.com.br/politica/deputados-da-direita-comentam-anuncio-de-flavio-bolsonaro-como-candidato-para-2026/",
+      "accounts": {
+        "instagram": {
+          "handle": "capitaoalbertoneto"
+        },
+        "facebook": {
+          "vanity": "capitaoalbertoneto",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-capitao-alden",
+      "name": "Capitão Alden",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://bahia.ba/politica/veja-os-deputados-baianos-do-pl-mantem-apoio-a-flavio-bolsonaro/",
+      "accounts": {
+        "facebook": {
+          "vanity": "deputadocapitaoalden",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-carlos-bolsonaro",
+      "name": "Carlos Bolsonaro",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://pt.wikipedia.org/wiki/Carlos_Bolsonaro",
+      "accounts": {
+        "instagram": {
+          "handle": "carlosbolsonaro"
+        },
+        "facebook": {
+          "vanity": "cbolsonaro",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-carlos-jordy",
+      "name": "Carlos Jordy",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.dgabc.com.br/Noticia/4339840/com-lira-e-sem-ciro-nogueira-flavio-confirma-47-apoios-ao-senado-veja-lista",
+      "accounts": {
+        "instagram": {
+          "handle": "carlosjordy"
+        },
+        "facebook": {
+          "vanity": "carlosjordyoficial",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-caroline-de-toni",
+      "name": "Caroline de Toni",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.dgabc.com.br/Noticia/4339840/com-lira-e-sem-ciro-nogueira-flavio-confirma-47-apoios-ao-senado-veja-lista",
+      "accounts": {
+        "instagram": {
+          "handle": "carolinedetoni"
+        },
+        "facebook": {
+          "vanity": "carolinerdetoni",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-claudio-castro",
+      "name": "Cláudio Castro",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://sbtnews.sbt.com.br/noticia/politica/em-entrevista-ao-sbt-news-castro-diz-que-ta-de-cabeca-na-campanha-de-flavio-bolsonaro-a-presidencia",
+      "accounts": {
+        "instagram": {
+          "handle": "claudiocastrorj"
+        },
+        "facebook": {
+          "vanity": "ClaudioCastroRJ",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-cleitinho-azevedo",
+      "name": "Cleitinho Azevedo",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.em.com.br/politica/2026/10/7514672-cleitinho-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.html",
+      "accounts": {
+        "instagram": {
+          "handle": "cleitinhoazevedo"
+        }
+      }
+    },
+    {
+      "id": "bolso-coronel-chrisostomo",
+      "name": "Coronel Chrisóstomo",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.rondoniadinamica.com/noticias/2026/05/coronel-chrisostomo-sai-em-defesa-de-flavio-bolsonaro-apos-repercussao-de-caso-envolvendo-banco-master-e-daniel-vorcaro-parabens,245037.shtml",
+      "accounts": {
+        "instagram": {
+          "handle": "depcoronelchrisostomo"
+        }
+      }
+    },
+    {
+      "id": "bolso-coronel-zucco",
+      "name": "Coronel Zucco",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.jornaldocomercio.com/politica/2026/10/1267888-zucco-e-melo-fazem-mobilizacao-em-apoio-a-flavio-bolsonaro-em-porto-alegre.html",
+      "accounts": {
+        "instagram": {
+          "handle": "zucco"
+        }
+      }
+    },
+    {
+      "id": "bolso-damares-alves",
+      "name": "Damares Alves",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://revistaoeste.com/politica/flavio-declara-apoio-a-candidatura-de-michelle-ao-senado/",
+      "accounts": {
+        "instagram": {
+          "handle": "damaresalvesoficial"
+        }
+      }
+    },
+    {
+      "id": "bolso-eder-mauro",
+      "name": "Éder Mauro",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.oliberal.com/politica/flavio-bolsonaro-critica-pt-e-anuncia-apoio-a-daniel-santos-e-eder-mauro-no-para-1.1132471",
+      "accounts": {
+        "instagram": {
+          "handle": "edermauropa"
+        }
+      }
+    },
+    {
+      "id": "bolso-eduardo-bolsonaro",
+      "name": "Eduardo Bolsonaro",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro",
+      "accounts": {
+        "instagram": {
+          "handle": "bolsonarosp"
+        },
+        "facebook": {
+          "vanity": "bolsonaro.enb",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-eduardo-pazuello",
+      "name": "Eduardo Pazuello",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/militar-proximo-a-campanha-de-flavio-pazuello-defende-anistia-a-presos-do-golpe-e-a-quem-prendeu/",
+      "accounts": {
+        "instagram": {
+          "handle": "generalpazuello.oficial"
+        }
+      }
+    },
+    {
+      "id": "bolso-eros-biondini",
+      "name": "Eros Biondini",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.poder360.com.br/poder-justica/aliados-pressionam-stf-para-visitar-bolsonaro-em-casa/",
+      "accounts": {
+        "instagram": {
+          "handle": "ErosBiondini"
+        },
+        "facebook": {
+          "vanity": "erosbiondini",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-fernando-maximo",
+      "name": "Fernando Máximo",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.dgabc.com.br/Noticia/4339840/com-lira-e-sem-ciro-nogueira-flavio-confirma-47-apoios-ao-senado-veja-lista",
+      "accounts": {
+        "instagram": {
+          "handle": "drfernandomaximo007"
+        },
+        "facebook": {
+          "vanity": "drfernandomaximo007",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-filipe-barros",
+      "name": "Filipe Barros",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.dgabc.com.br/Noticia/4339840/com-lira-e-sem-ciro-nogueira-flavio-confirma-47-apoios-ao-senado-veja-lista",
+      "accounts": {
+        "instagram": {
+          "handle": "filipebarrosoficial"
+        }
+      }
+    },
+    {
+      "id": "bolso-flavio-bolsonaro",
+      "name": "Flávio Bolsonaro",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "accounts": {
+        "instagram": {
+          "handle": "flaviobolsonaro"
+        },
+        "facebook": {
+          "vanity": "flaviobolsonaro",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-gil-diniz",
+      "name": "Gil Diniz",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.instagram.com/carteiroreaca/",
+      "accounts": {
+        "instagram": {
+          "handle": "carteiroreaca"
+        }
+      }
+    },
+    {
+      "id": "bolso-greyce-elias",
+      "name": "Greyce Elias",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.poder360.com.br/poder-eleicoes-2026/leia-a-lista-de-mulheres-que-estiveram-ao-lado-de-flavio-na-convencao-do-pl/",
+      "accounts": {
+        "instagram": {
+          "handle": "greyceelias"
+        },
+        "facebook": {
+          "vanity": "greyce.elias",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-gustavo-gayer",
+      "name": "Gustavo Gayer",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.congressoemfoco.com.br/noticia/114584/pl-endossa-candidatura-de-flavio-governistas-veem-vitoria-de-lula",
+      "accounts": {
+        "instagram": {
+          "handle": "gusgayer"
+        },
+        "facebook": {
+          "vanity": "gustavogayer",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-gusttavo-lima",
+      "name": "Gusttavo Lima",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://revistaoeste.com/politica/cantores-sertanejos-declaram-apoio-a-flavio-em-goias/",
+      "accounts": {
+        "instagram": {
+          "handle": "gusttavolima"
+        },
+        "facebook": {
+          "vanity": "gusttavolimaoficial",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-helio-lopes",
+      "name": "Hélio Lopes",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.dgabc.com.br/Noticia/4339840/com-lira-e-sem-ciro-nogueira-flavio-confirma-47-apoios-ao-senado-veja-lista",
+      "accounts": {
+        "instagram": {
+          "handle": "depheliolopes"
+        },
+        "facebook": {
+          "vanity": "depheliolopes",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-izalci-lucas",
+      "name": "Izalci Lucas",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://izalci.com.br/izalci-lucas-apoia-flavio-bolsonaro-para-presidencia-da-republica/",
+      "accounts": {
+        "instagram": {
+          "handle": "izalci"
+        }
+      }
+    },
+    {
+      "id": "bolso-jaime-bagattoli",
+      "name": "Jaime Bagattoli",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.rondoniaovivo.com/noticia/politica/2026/10/15/jaime-bagattoli-senador-e-bancada-do-pl-participam-de-carreatas-em-apoio-a-flavio-bolsonaro.html",
+      "accounts": {
+        "instagram": {
+          "handle": "jaimebagattolioficial"
+        }
+      }
+    },
+    {
+      "id": "bolso-jair-bolsonaro",
+      "name": "Jair Bolsonaro",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.poder360.com.br/poder-eleicoes/leia-a-integra-da-carta-de-bolsonaro-lida-por-flavio/",
+      "accounts": {
+        "instagram": {
+          "handle": "jairmessiasbolsonaro"
+        },
+        "facebook": {
+          "vanity": "jairmessias.bolsonaro",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-joao-roma",
+      "name": "João Roma",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://muitainformacao.com.br/eleicoes/com-atos-em-salvador-e-no-interior-joao-roma-intensifica-mobilizacao-por-flavio-bolsonaro-na-reta-final-da-campanha/",
+      "accounts": {
+        "instagram": {
+          "handle": "joaoromaneto"
+        }
+      }
+    },
+    {
+      "id": "bolso-joaquim-passarinho",
+      "name": "Joaquim Passarinho",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.metropoles.com/brasil/bolsonaro-teve-33-pedidos-de-visita-em-8-dias-de-prisao-domiciliar",
+      "accounts": {
+        "instagram": {
+          "handle": "joaquim_passarinho"
+        },
+        "facebook": {
+          "vanity": "joaquimpassarinhooficial",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-jose-medeiros",
+      "name": "José Medeiros",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.dgabc.com.br/Noticia/4339840/com-lira-e-sem-ciro-nogueira-flavio-confirma-47-apoios-ao-senado-veja-lista",
+      "accounts": {
+        "facebook": {
+          "vanity": "josemedeirosMT",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-julia-zanatta",
+      "name": "Julia Zanatta",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://sbtnews.sbt.com.br/noticia/politica/zanatta-diz-estar-a-disposicao-para-ser-vice-de-flavio-1",
+      "accounts": {
+        "instagram": {
+          "handle": "juliazanattasc"
+        },
+        "facebook": {
+          "vanity": "juliazanattasc",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-junio-amaral",
+      "name": "Junio Amaral",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.poder360.com.br/poder-justica/aliados-pressionam-stf-para-visitar-bolsonaro-em-casa/",
+      "accounts": {
+        "instagram": {
+          "handle": "junioamaraldm"
+        },
+        "facebook": {
+          "vanity": "cabojunioamaral",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-lucas-pavanato",
+      "name": "Lucas Pavanato",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.correiodamanha.com.br/nacional/sao-paulo/2026/08/313486-video-do-ex-vereador-lucas-pavanato-com-flavio-bolsonaro.html",
+      "accounts": {
+        "instagram": {
+          "handle": "lucaspavanato"
+        }
+      }
+    },
+    {
+      "id": "bolso-magno-malta",
+      "name": "Magno Malta",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://eshoje.com.br/?p=887397",
+      "accounts": {
+        "instagram": {
+          "handle": "magnomalta"
+        }
+      }
+    },
+    {
+      "id": "bolso-marcel-van-hattem",
+      "name": "Marcel van Hattem",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.metropoles.com/brasil/bolsonaro-teve-33-pedidos-de-visita-em-8-dias-de-prisao-domiciliar",
+      "accounts": {
+        "instagram": {
+          "handle": "MARCELVANHATTEM"
+        },
+        "facebook": {
+          "vanity": "marcelvh",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-marco-feliciano",
+      "name": "Marco Feliciano",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.correiobraziliense.com.br/politica/2026/05/7412871-marco-feliciano-pede-oracoes-por-bolsonaro-familia-ungida-por-deus.html",
+      "accounts": {
+        "instagram": {
+          "handle": "marcofeliciano"
+        }
+      }
+    },
+    {
+      "id": "bolso-marcos-pollon",
+      "name": "Marcos Pollon",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.opovo.com.br/noticias/politica/2026/03/02/amp/em-carta-da-prisao-bolsonaro-declara-apoio-a-marcos-pollon-ao-senado-por-ms.html",
+      "accounts": {
+        "instagram": {
+          "handle": "pollonms"
+        },
+        "facebook": {
+          "vanity": "mpollon",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-marcos-pontes",
+      "name": "Marcos Pontes",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.infomoney.com.br/politica/astronauta-marcos-pontes-se-coloca-a-disposicao-para-ser-vice-de-flavio-bolsonaro/",
+      "accounts": {
+        "instagram": {
+          "handle": "astropontes"
+        }
+      }
+    },
+    {
+      "id": "bolso-marcos-rogerio",
+      "name": "Marcos Rogério",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://oantagonista.com.br/brasil/pl-lanca-pre-candidatura-de-marcos-rogerio-ao-governo-de-rondonia/",
+      "accounts": {
+        "instagram": {
+          "handle": "marcosrogeriooficial"
+        }
+      }
+    },
+    {
+      "id": "bolso-mario-frias",
+      "name": "Mario Frias",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://ncnews.com.br/?p=63939",
+      "accounts": {
+        "instagram": {
+          "handle": "mariofriasoficial"
+        }
+      }
+    },
+    {
+      "id": "bolso-mauricio-do-volei",
+      "name": "Mauricio do Vôlei",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.itatiaia.com.br/politica/eleicoes/mauricio-do-volei-faz-apelo-a-cleitinho-e-diz-que-palanque-de-flavio-em-minas-esta-atrasado/",
+      "accounts": {
+        "instagram": {
+          "handle": "mauriciodovolei"
+        },
+        "facebook": {
+          "vanity": "mauriciodovolei",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-michelle-bolsonaro",
+      "name": "Michelle Bolsonaro",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.cnnbrasil.com.br/eleicoes/em-video-para-convencao-michelle-declara-apoio-a-campanha-de-flavio/",
+      "accounts": {
+        "instagram": {
+          "handle": "michellebolsonaro"
+        }
+      }
+    },
+    {
+      "id": "bolso-nikolas-ferreira",
+      "name": "Nikolas Ferreira",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.correiodamanha.com.br/colunistas/paulo-cappelli/2026/07/299128-nikolas-manifesta-apoio-a-flavio-bolsonaro-e-prega-foco-para-derrotar-lula.html",
+      "accounts": {
+        "instagram": {
+          "handle": "nikolasferreiradm"
+        }
+      }
+    },
+    {
+      "id": "bolso-pablo-marcal",
+      "name": "Pablo Marçal",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.infomoney.com.br/politica/pablo-marcal-declara-apoio-a-pre-candidatura-de-flavio-bolsonaro-a-presidencia/",
+      "accounts": {
+        "instagram": {
+          "handle": "pablomarcal1"
+        }
+      }
+    },
+    {
+      "id": "bolso-paulo-figueiredo",
+      "name": "Paulo Figueiredo",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.poder360.com.br/poder-gente/paulo-figueiredo-mantem-apoio-a-flavio-mesmo-apos-repudio/",
+      "accounts": {
+        "instagram": {
+          "handle": "realpfigueiredo08"
+        }
+      }
+    },
+    {
+      "id": "bolso-priscila-costa",
+      "name": "Priscila Costa",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://mais.opovo.com.br/jornal/politica/2026/07/06/pivo-de-crise-no-cla-bolsonaro-priscila-costa-declara-apoio-a-flavio-e-pede-uniao.html",
+      "accounts": {
+        "instagram": {
+          "handle": "priscilacosta"
+        },
+        "facebook": {
+          "vanity": "priscilacostaoficial",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-rodolfo-nogueira",
+      "name": "Rodolfo Nogueira",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.portaltela.com/noticias/politica/2026/05/11/deputado-elogia-bolsonaro-e-pede-votos-para-flavio-vereadora-petista-reage/",
+      "accounts": {
+        "instagram": {
+          "handle": "rodolfonogueirams"
+        },
+        "facebook": {
+          "vanity": "rodolfonogueiraoficial",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-rodrigo-valadares",
+      "name": "Rodrigo Valadares",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.dgabc.com.br/Noticia/4339840/com-lira-e-sem-ciro-nogueira-flavio-confirma-47-apoios-ao-senado-veja-lista",
+      "accounts": {
+        "instagram": {
+          "handle": "rodrigovaladares_"
+        },
+        "facebook": {
+          "vanity": "DeputadoRodrigo.SE",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-rogerio-marinho",
+      "name": "Rogério Marinho",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.poder360.com.br/brasil/marinho-desiste-do-governo-do-rn-e-vai-coordenar-campanha-de-flavio/",
+      "accounts": {
+        "instagram": {
+          "handle": "rogerio.smarinho"
+        },
+        "facebook": {
+          "vanity": "rogeriosmarinho",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-ronaldo-caiado",
+      "name": "Ronaldo Caiado",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.gazetadopovo.com.br/cafe-com-a-gazeta/caiado-e-zema-anunciam-apoio-a-flavio-no-segundo-turno/",
+      "accounts": {
+        "instagram": {
+          "handle": "ronaldocaiado"
+        }
+      }
+    },
+    {
+      "id": "bolso-rosana-valle",
+      "name": "Rosana Valle",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.poder360.com.br/poder-eleicoes-2026/leia-a-lista-de-mulheres-que-estiveram-ao-lado-de-flavio-na-convencao-do-pl/",
+      "accounts": {
+        "instagram": {
+          "handle": "rosanavalleoficial"
+        },
+        "facebook": {
+          "vanity": "RosanaValleOficial",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-sargento-fahur",
+      "name": "Sargento Fahur",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.bnews.com.br/noticias/politica/o-brasil-nao-aguentara-um-novo-governo-lula-diz-sargento-fahur-em-convencao-do-pl.html",
+      "accounts": {
+        "instagram": {
+          "handle": "sargentofahurpr"
+        },
+        "facebook": {
+          "vanity": "SargentoFahur10",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-sergio-moro",
+      "name": "Sergio Moro",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.dgabc.com.br/Noticia/4352471/moro-reune-liderancas-de-sete-partidos-para-organizar-campanha-de-flavio-no-pr",
+      "accounts": {
+        "instagram": {
+          "handle": "sf_moro"
+        }
+      }
+    },
+    {
+      "id": "bolso-silas-malafaia",
+      "name": "Silas Malafaia",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.bnews.com.br/noticias/politica/eu-sou-amigo-nao-inimigo-diz-malafaia-ao-declarar-apoio-a-flavio.html",
+      "accounts": {
+        "instagram": {
+          "handle": "silasmalafaia"
+        }
+      }
+    },
+    {
+      "id": "bolso-sostenes-cavalcante",
+      "name": "Sóstenes Cavalcante",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.portaltela.com/noticias/politica/2025/12/04/direita-reage-apos-bolsonaro-indicar-flavio-a-corrida-presidencial/",
+      "accounts": {
+        "instagram": {
+          "handle": "sostenescavalcante"
+        },
+        "facebook": {
+          "vanity": "sostenescavalcante",
+          "kind": "page"
+        }
+      }
+    },
+    {
+      "id": "bolso-tarcisio-de-freitas",
+      "name": "Tarcísio de Freitas",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://tribunadejundiai.com.br/politica/eleicoes-2026/tarcisio-apoio-flavio-bolsonaro-2026/",
+      "accounts": {
+        "instagram": {
+          "handle": "tarcisiogdf"
+        }
+      }
+    },
+    {
+      "id": "bolso-tereza-cristina",
+      "name": "Tereza Cristina",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.gazetadopovo.com.br/eleicoes/2026/tereza-cristina-reafirma-apoio-a-flavio-bolsonaro-mesmo-com-pp-neutro/",
+      "accounts": {
+        "instagram": {
+          "handle": "terezacristinams"
+        }
+      }
+    },
+    {
+      "id": "bolso-ubiratan-sanderson",
+      "name": "Ubiratan Sanderson",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://www.dgabc.com.br/Noticia/4339840/com-lira-e-sem-ciro-nogueira-flavio-confirma-47-apoios-ao-senado-veja-lista",
+      "accounts": {
+        "instagram": {
+          "handle": "sandersonrs"
+        }
+      }
+    },
+    {
+      "id": "bolso-wilder-morais",
+      "name": "Wilder Morais",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://ohoje.com/2026/09/27/wilder-morais-chama-mdb-de-puxadinho-do-pt-durante-ato-com-flavio-bolsonaro-em-goiania/",
+      "accounts": {
+        "instagram": {
+          "handle": "wildermorais"
+        }
+      }
+    },
+    {
+      "id": "bolso-zequinha-marinho",
+      "name": "Zequinha Marinho",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://diariodopara.com.br/eleicoes-2026/flavio-bolsonaro-sobe-ao-palanque-em-belem-ao-lado-de-daniel-santos-e-eder-mauro/",
+      "accounts": {
+        "instagram": {
+          "handle": "zequinhamarinhooficial"
+        }
+      }
+    },
+    {
+      "id": "bolso-zeze-di-camargo",
+      "name": "Zezé Di Camargo",
+      "category": "apoio-declarado-bolsonaro",
+      "criterionId": "apoio-publico-declarado",
+      "reasonUrl": "https://revistaoeste.com/politica/cantores-sertanejos-declaram-apoio-a-flavio-em-goias/",
+      "accounts": {
+        "instagram": {
+          "handle": "zezedicamargo"
+        }
       }
     }
   ]

@@ -13,7 +13,17 @@ https://raw.githubusercontent.com/CleitonCardoso/hate-speech-block-list/main/lis
 
 ## Critérios
 
-Lista de teste, mantida pelo dono do repositório para validar o fluxo de bloqueio. Não é uma classificação das pessoas listadas.
+Cada pessoa da lista atende aos três critérios abaixo:
+
+1. **Figura pública**: ocupa ou ocupou cargo público, dirige partido, ou tem a comunicação política como atividade pública (comunicadores, artistas que fizeram campanha). Nenhuma pessoa comum.
+2. **Apoio público declarado** a Jair Bolsonaro ou à candidatura de Flávio Bolsonaro, com uma fonte pública em `reasonUrl` (notícia ou declaração da própria pessoa). Filiação partidária sozinha não basta.
+3. **Conta conferida**: cada perfil foi aberto em 29/10/2026 e o nome exibido bate com a pessoa. Contas de fãs, de apoio, paródias e contas inexistentes foram descartadas.
+
+A categoria `apoio-declarado-bolsonaro` descreve apoio político público, e só isso. Ela não afirma nada sobre a conduta pessoal de ninguém.
+
+## Correções
+
+Se uma conta estiver errada ou uma pessoa não atender aos critérios, abra uma issue com a fonte. A entrada é revista e, se for o caso, removida na versão seguinte.
 
 ## Atualizar
 
