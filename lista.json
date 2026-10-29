@@ -1,0 +1,27 @@
+{
+  "listId": "hate-speech-block-list",
+  "version": "2026-10-28.1",
+  "criteriaUrl": "https://github.com/CleitonCardoso/hate-speech-block-list#criterios",
+  "entries": [
+    {
+      "id": "t-0003",
+      "name": "Eduarda Campopiano",
+      "category": "test",
+      "criterionId": "user",
+      "reasonUrl": "https://www.instagram.com/eduarda_campopiano/",
+      "accounts": {
+        "instagram": { "handle": "eduarda_campopiano" }
+      }
+    },
+    {
+      "id": "t-0004",
+      "name": "Lucas Pavanato",
+      "category": "test",
+      "criterionId": "user",
+      "reasonUrl": "https://www.instagram.com/lucaspavanato/",
+      "accounts": {
+        "instagram": { "handle": "lucaspavanato" }
+      }
+    }
+  ]
+}
